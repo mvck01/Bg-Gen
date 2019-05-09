@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mvck01/Bg-Gen/issues"
   },
-  "homepage": "https://github.com/mvck01/Bg-Gen#readme"
+  "homepage": "https://github.com/mvck01/Bg-Gen#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
