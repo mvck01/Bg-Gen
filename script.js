@@ -1,7 +1,7 @@
 var _ = require('lodash');
-let array = [1,2,3,4,5,6,7]; 
-console.log('answer', _.without(array, 3,4));
+let array= ["wake", "bake", "lake", "flake"]; 
 
+console.log(`ToTaL`, _.without(array, "flake"))
 
 const css = document.querySelector("h3");
 const color1 = document.querySelector(".color1");
